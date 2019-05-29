@@ -25,7 +25,7 @@
         "lv": "Betona maisītājs LIV ML2130"
       },
       "barcode": "EAM 28493-199",
-      "available": true
+      "available": false
     },
     {
       "id": "4",
@@ -38,6 +38,24 @@
     },
     {
       "id": "5",
+      "image": "https://dummyimage.com/24x24/545454/ffffff.png",
+      "name": {
+        "lv": "Betona maisītājs LIV ML2130"
+      },
+      "barcode": "EAM 28493-199",
+      "available": fals
+    },
+    {
+      "id": "6",
+      "image": "https://dummyimage.com/24x24/545454/ffffff.png",
+      "name": {
+        "lv": "Betona maisītājs LIV ML2130"
+      },
+      "barcode": "EAM 28493-199",
+      "available": true
+    },
+    {
+      "id": "7",
       "image": "https://dummyimage.com/24x24/545454/ffffff.png",
       "name": {
         "lv": "Betona maisītājs LIV ML2130"
