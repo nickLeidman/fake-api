@@ -43,7 +43,7 @@
         "lv": "Betona maisītājs LIV ML2130"
       },
       "barcode": "EAM 28493-199",
-      "available": fals
+      "available": false
     },
     {
       "id": "6",
